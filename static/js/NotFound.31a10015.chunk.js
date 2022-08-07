@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgoit_react_hw_05_movies=self.webpackChunkgoit_react_hw_05_movies||[]).push([[187],{4520:function(e,t,i){i.r(t);var r=i(501),s=i(184);t.default=function(){return(0,s.jsx)("div",{children:(0,s.jsxs)(s.Fragment,{children:[(0,s.jsxs)("h2",{children:["Page not found go to the ",(0,s.jsx)(r.rU,{to:"/",children:"Home"})]}),(0,s.jsx)("img",{src:"https://i.gifer.com/7VE.gif",alt:"Travolta"})]})})}}}]);
+//# sourceMappingURL=NotFound.31a10015.chunk.js.map
